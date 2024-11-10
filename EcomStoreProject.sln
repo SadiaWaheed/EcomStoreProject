@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcomStoreProject.Model", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcomStoreProject.Utility", "EcomStoreProject.Utility\EcomStoreProject.Utility.csproj", "{FFB1A5E5-3B5C-423B-9B74-6AA74FE9FAFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcomStoreProject.DataAccess", "EcomStoreProject.DataAccess\EcomStoreProject.DataAccess.csproj", "{4FD0C488-6B38-4D0F-A565-1F24E615A608}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FFB1A5E5-3B5C-423B-9B74-6AA74FE9FAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFB1A5E5-3B5C-423B-9B74-6AA74FE9FAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFB1A5E5-3B5C-423B-9B74-6AA74FE9FAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD0C488-6B38-4D0F-A565-1F24E615A608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD0C488-6B38-4D0F-A565-1F24E615A608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD0C488-6B38-4D0F-A565-1F24E615A608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD0C488-6B38-4D0F-A565-1F24E615A608}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
